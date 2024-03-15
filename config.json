@@ -1,0 +1,7 @@
+{
+    "subscription_id": "205478b7-1f8c-4ae8-be05-317e7dc7d199",
+    "resource_group": "PracticeMachineLearning",
+    "workspace_name": "PracticeMachineLearning",
+    "region": "centralus",
+    "compute_target" : "PracticeML"
+}
